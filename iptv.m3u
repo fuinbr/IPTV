@@ -1,5 +1,5 @@
 #EXTM3U name="allen-iptv"
-#EXTINF:-1,CCTV-1高清
+#EXTINF:-1,CCTV-1高清[RTSP]
 rtsp://60.213.13.203:554/PLTV/88888888/224/3221225871/10000100000000060000000000219040_0.smil
 #EXTINF:-1,CCTV-2高清
 http://192.168.1.4:8012/rtp/239.3.1.60:8084
@@ -21,3 +21,5 @@ http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
 #EXTINF:-1,CCTV-6高清
 http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8
+#EXTINF:-1,湖北卫视[RTSP]
+rtsp://60.213.13.203:554/PLTV/88888888/224/3221225879/10000100000000060000000000215740_0.smil
