@@ -9,3 +9,15 @@ http://edge19-1.edgeware.hk4.tvb.com/session/0597a7ee-0339-11e9-8f62-005056903a1
 http://dlhls.live.cnlive.com:1935/cdn/inyuetai/playlist.m3u8
 #EXTINF:-1,东方卫视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225810/index.m3u8
+#EXTINF:-1,凤凰中文HD
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:-1,凤凰资讯
+http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1,韩国-CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1,韩国●韩国Good
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1,日本剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1,CCTV-6高清
+http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8
