@@ -21,9 +21,9 @@ http://192.168.1.2:9009/udp/238.200.200.108:5540
 http://192.168.1.2:9009/udp/238.200.200.109:5540
 #EXTINF:-1,游戏风云
 http://192.168.1.2:9009/udp/238.200.200.110:5540
-#EXTINF:-1,CCTV1
+#EXTINF:-1 tvg-logo="http://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv1_20160328.png",CCTV1
 http://192.168.1.2:9009/udp/238.200.200.133:5540
-#EXTINF:-1,CCTV2
+#EXTINF:-1 tvg-logo="http://p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/cctv2_20160328.png",CCTV2
 http://192.168.1.2:9009/udp/238.200.200.111:5540
 #EXTINF:-1,CCTV3
 http://192.168.1.2:9009/udp/238.200.200.112:5540
