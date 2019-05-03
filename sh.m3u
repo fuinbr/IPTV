@@ -341,10 +341,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="电视台",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="其它",人妖电视1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="其它",人妖电视2
-http://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341aebbebe497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title = "China-WebTV",SinoVision（美国）
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype。 png" group-title ="CHINA",旅游频道
@@ -357,10 +353,8 @@ https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0288_av-b.m3u8
 http://www.lengua.com/anthems/China.mp3
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="台湾",一新闻备
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/qicaixiju.jpg" group-title ="地方电视台（上海） "七彩戏剧
+#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/qicaixiju.jpg" group-title ="地方电视台（上海） ",七彩戏剧
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="其它",七彩西游记1猪八戒招亲HD高清
-https://ifeng.com-l-ifeng.com/20190103/26081_6443bc56/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title ="中文新闻时事",三立新闻
 http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="电视台",上海外语
@@ -369,8 +363,6 @@ http://hw-stream.kksmg.com/hls/channel1081/index.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/dongfang.jpg" group-title ="地方电视台（上海） ",东方卫视
 http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="其它",两对夫妇的情事
-https://156zy.suyunbo.tv/2018/07/21/ERc1jhgnYvZXt23Q/playlist.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.weathertv.cn/m/i/index/logo.png" group-title ="China（中国） ）",中国天气
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000609/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",中山公共
@@ -415,8 +407,6 @@ http://cjzb.u15.live.17ugo.com/ugo.m3u8
 http://cjzb.u01.live.17ugo.com/ugo.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",佛山综合
 http://dslive.grtn.cn/fszh/sd/live.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="其它",保姆的目的
-https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/kelamayi.jpg" group-title ="地方电视台（新疆） ",克拉玛依1
 http://klmyzb.rcsxzx.com/hls/klmy1.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/kelamayi.jpg" group-title ="地方电视台（新疆） ",克拉玛依2（维语综合语）
@@ -543,8 +533,6 @@ http://39.106.151.203:80/a2/tjtv.m3u8?id=tjwy
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000603/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",女神系列2
 https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="其它",妇科医生
-https://156zy.suyunbo.tv/2018/07/22/C6APNy9p6BWJYpoE/playlist.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://static2.tvzhe.com/channel/logo/WEIHAI2.jpg" group-title ="地方电视台（山东） "威海公共
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000275/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://static2.tvzhe.com/channel/logo/WEIHAI1.jpg" group-title ="地方电视台（山东） ",威海新闻综合
@@ -848,6 +836,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225938/3.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",深圳蛇口
 http://218.17.99.211:82/hls/d4encs75.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",清远综合
+http://dslive.grtn.cn/qyzh/sd/live.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="longlong",游戏风云
 http://183.207.249.7/PLTV/2/224/3221226041/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://ku.90sjimg.com/element_pic/17/12/31/2ec189f5167bd017e47acd441800487b.jpg" group-title ="地方电视台（河湖广）",湖北卫视
@@ -934,7 +923,7 @@ https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",终极一班
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/mstfpd.jpg" group-title ="地方电视台（四川） "美食天府
+#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/mstfpd.jpg" group-title ="地方电视台（四川） ",美食天府
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000604/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",老香菇
 https://ws.streamhls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1_1200/playlist.m3u8
@@ -950,7 +939,7 @@ http://stream.wifizs.cn/xwzh/sd/live.m3u8
 http://hw-stream.kksmg.com/hls/channel1071/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",茂名综合
 http://dslive.grtn.cn/mmzh/sd/live.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/jzsxwpd.jpg" group-title ="地方电视台（湖北） "荆州新闻
+#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/jzsxwpd.jpg" group-title ="地方电视台（湖北） ",荆州新闻
 http://117.149.150.4/guangdianyun_33058/tv_channel_216__redirect__33058.m3u8
 http://stream3.xiancity.cn/5/sd/live.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",西安健康
@@ -967,7 +956,7 @@ http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="" group-title ="",西游记
 https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/hzxfmz.jpg" group-title ="地方电视台（浙江） "西湖明珠
+#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/hzxfmz.jpg" group-title ="地方电视台（浙江） ",西湖明珠
 http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title ="地方电视台（青海/西藏/内蒙古）",西藏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
@@ -993,9 +982,9 @@ http://live.italkdd.com/cds160/hls/channel026/channel026_2000.m3u8
 http://117.156.28.119/270000001111/1110000154/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG" group-title ="地方电视台（上海）",都市频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225969/3.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/jiuquan.jpg" group-title ="地方电视台（甘肃） "酒泉公共
+#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/jiuquan.jpg" group-title ="地方电视台（甘肃） ",酒泉公共
 http://117.156.28.119/270000001111/1110000002/index.m3u8
-#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/jiuquan.jpg" group-title ="地方电视台（甘肃） "酒泉新闻综合
+#EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="http://www.tvyan.com/uploads/dianshi/jiuquan.jpg" group-title ="地方电视台（甘肃） ",酒泉新闻综合
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 #EXTINF:-1  tvg-id ="" tvg-name ="" tvg-logo ="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title ="地方电视台（四川）",重庆卫视
 http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
