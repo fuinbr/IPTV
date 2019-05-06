@@ -203,10 +203,6 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000611/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" group-title ="地方电视台（上海）",ICS上海外语
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/IPTVSSZN.jpg" group-title ="地方电视台（广东） ",IPTV收视指
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/IPTVFZ.jpg" group-title ="地方电视台（广东） ",IPTV法治
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000638/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title ="海外",i综艺
 http://dlhls.live.cnlive.com:1935/cdn/izongyi/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title ="海外",JUSMIN TV
