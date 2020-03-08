@@ -225,7 +225,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
 http://111.40.205.87/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
+#EXTINF:-1 group-title="央视",CCTV-1综合
 http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
@@ -267,15 +267,15 @@ http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="地方卫视",东南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="地方卫视",四川卫视-标清
+#EXTINF:-1 group-title="地方卫视",四川卫视
 http://111.40.205.87/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="地方卫视",广西卫视
 http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="地方卫视",河北卫视-标清
+#EXTINF:-1 group-title="地方卫视",河北卫视
 http://111.40.205.87/PLTV/88888888/224/3221225623/index.m3u8
 #EXTINF:-1 group-title="地方卫视",山西卫视
 http://111.40.205.87/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="地方卫视",陕西卫视-标清
+#EXTINF:-1 group-title="地方卫视",陕西卫视
 http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 group-title="地方卫视",贵州卫视
 http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8
@@ -287,19 +287,19 @@ http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225631/index.m3u8
 #EXTINF:-1 group-title="地方卫视",宁夏卫视
 http://111.40.205.87/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="地方卫视",甘肃卫视-标清
+#EXTINF:-1 group-title="地方卫视",甘肃卫视
 http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="地方卫视",内蒙古卫视
 http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="地方卫视",新疆卫视-标清
+#EXTINF:-1 group-title="地方卫视",新疆卫视
 http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="地方卫视",云南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1 group-title="地方卫视",吉林卫视-标清
+#EXTINF:-1 group-title="地方卫视",吉林卫视
 http://111.40.205.87/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="地方卫视",西藏卫视
 http://111.40.205.87/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="地方卫视",海南卫视-标清
+#EXTINF:-1 group-title="地方卫视",海南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="地方卫视",黑龙江卫视
 http://111.40.205.87/PLTV/88888888/224/3221225640/index.m3u8
@@ -345,7 +345,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225705/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="地方卫视",安多卫视
 http://111.40.205.87/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="地方卫视",康吧卫视-标清
+#EXTINF:-1 group-title="地方卫视",康吧卫视
 http://111.40.205.87/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 group-title="港澳台", 凤凰资讯台
 http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
